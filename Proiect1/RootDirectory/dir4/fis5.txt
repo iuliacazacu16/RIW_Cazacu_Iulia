@@ -1,0 +1,1 @@
+This particular robot is powered by a rechargeable nickel metal hydride battery, and will be tasked with operating on its own for weeks at a time.

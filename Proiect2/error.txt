@@ -1,0 +1,13 @@
+Error request!
+
+GET /dev/ HTTP/1.1
+Host: httpd.apache.org
+User-Agent: CLIENT RIW
+Connection: close
+
+HTTP/1.1 404 Not Found
+Server: nginx/1.10.2
+Date: Sat, 06 Jun 2020 11:52:02 GMT
+Content-Type: text/html
+Content-Length: 169
+Connection: close

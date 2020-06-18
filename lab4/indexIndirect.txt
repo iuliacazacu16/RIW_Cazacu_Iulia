@@ -1,0 +1,435 @@
+half [{E:\FACULTATE\An IV\Sem II\RIW\lab4riw\RootDirectory\dir2\fis3.txt=1}] 
+
+
+
+
+keywords [{E:\FACULTATE\An IV\Sem II\RIW\lab4riw\RootDirectory\dir1\dir3\fis1.txt=1}] 
+
+
+
+
+use [{E:\FACULTATE\An IV\Sem II\RIW\lab4riw\RootDirectory\dir2\dir4\fis4.txt=1}] 
+
+
+
+
+available [{E:\FACULTATE\An IV\Sem II\RIW\lab4riw\RootDirectory\dir2\dir4\fis4.txt=1}] 
+
+
+
+
+promise [{E:\FACULTATE\An IV\Sem II\RIW\lab4riw\RootDirectory\dir2\dir4\fis4.txt=1}] 
+
+
+
+
+office [{E:\FACULTATE\An IV\Sem II\RIW\lab4riw\RootDirectory\dir2\fis3.txt=1}] 
+
+
+
+
+research [{E:\FACULTATE\An IV\Sem II\RIW\lab4riw\RootDirectory\dir2\dir4\fis4.txt=1}] 
+
+
+
+
+years [{E:\FACULTATE\An IV\Sem II\RIW\lab4riw\RootDirectory\dir2\fis3.txt=1}] 
+
+
+
+
+skills [{E:\FACULTATE\An IV\Sem II\RIW\lab4riw\RootDirectory\dir2\dir4\fis4.txt=1}] 
+
+
+
+
+firm [{E:\FACULTATE\An IV\Sem II\RIW\lab4riw\RootDirectory\dir2\dir4\fis4.txt=1}] 
+
+
+
+
+correctly [{E:\FACULTATE\An IV\Sem II\RIW\lab4riw\RootDirectory\dir2\dir4\fis4.txt=1}] 
+
+
+
+
+companies [{E:\FACULTATE\An IV\Sem II\RIW\lab4riw\RootDirectory\dir1\dir3\fis1.txt=1}] 
+
+
+
+
+looks [{E:\FACULTATE\An IV\Sem II\RIW\lab4riw\RootDirectory\dir1\dir3\fis1.txt=1}] 
+
+
+
+
+scant [{E:\FACULTATE\An IV\Sem II\RIW\lab4riw\RootDirectory\dir2\dir4\fis4.txt=1}] 
+
+
+
+
+prior [{E:\FACULTATE\An IV\Sem II\RIW\lab4riw\RootDirectory\dir1\dir3\fis1.txt=1}] 
+
+
+
+
+consider [{E:\FACULTATE\An IV\Sem II\RIW\lab4riw\RootDirectory\dir2\dir4\fis4.txt=1}] 
+
+
+
+
+investing [{E:\FACULTATE\An IV\Sem II\RIW\lab4riw\RootDirectory\dir2\dir4\fis4.txt=1}] 
+
+
+
+
+up [{E:\FACULTATE\An IV\Sem II\RIW\lab4riw\RootDirectory\dir1\dir3\fis1.txt=1}] 
+
+
+
+
+hunting [{E:\FACULTATE\An IV\Sem II\RIW\lab4riw\RootDirectory\dir1\dir3\fis1.txt=1}] 
+
+
+
+
+those [{E:\FACULTATE\An IV\Sem II\RIW\lab4riw\RootDirectory\dir1\dir3\fis1.txt=1}] 
+
+
+
+
+10 [{E:\FACULTATE\An IV\Sem II\RIW\lab4riw\RootDirectory\dir2\fis3.txt=1}] 
+
+
+
+
+new [{E:\FACULTATE\An IV\Sem II\RIW\lab4riw\RootDirectory\dir1\dir3\fis1.txt=1}] 
+
+
+
+
+employers [{E:\FACULTATE\An IV\Sem II\RIW\lab4riw\RootDirectory\dir1\dir3\fis2.txt=1}] 
+
+
+
+
+likely [{E:\FACULTATE\An IV\Sem II\RIW\lab4riw\RootDirectory\dir1\dir3\fis2.txt=1}] 
+
+
+
+
+using [{E:\FACULTATE\An IV\Sem II\RIW\lab4riw\RootDirectory\dir2\dir4\fis4.txt=1}] 
+
+
+
+
+efficiency [{E:\FACULTATE\An IV\Sem II\RIW\lab4riw\RootDirectory\dir1\dir3\fis1.txt=1}] 
+
+
+
+
+months [{E:\FACULTATE\An IV\Sem II\RIW\lab4riw\RootDirectory\dir2\fis3.txt=2}] 
+
+
+
+
+like [{E:\FACULTATE\An IV\Sem II\RIW\lab4riw\RootDirectory\dir1\dir3\fis1.txt=1}] 
+
+
+
+
+past [{E:\FACULTATE\An IV\Sem II\RIW\lab4riw\RootDirectory\dir1\dir3\fis1.txt=2}] 
+
+
+
+
+this [{E:\FACULTATE\An IV\Sem II\RIW\lab4riw\RootDirectory\dir1\dir3\fis1.txt=1}] 
+
+
+
+
+them [{E:\FACULTATE\An IV\Sem II\RIW\lab4riw\RootDirectory\dir2\dir4\fis4.txt=1}] 
+
+
+
+
+resulting [{E:\FACULTATE\An IV\Sem II\RIW\lab4riw\RootDirectory\dir2\fis3.txt=1}] 
+
+
+
+
+tool [{E:\FACULTATE\An IV\Sem II\RIW\lab4riw\RootDirectory\dir1\dir3\fis1.txt=2}] 
+
+
+
+
+intelligence [{E:\FACULTATE\An IV\Sem II\RIW\lab4riw\RootDirectory\dir2\dir4\fis4.txt=1}, {E:\FACULTATE\An IV\Sem II\RIW\lab4riw\RootDirectory\dir1\dir3\fis1.txt=1}, {E:\FACULTATE\An IV\Sem II\RIW\lab4riw\RootDirectory\dir1\dir3\fis2.txt=1}] 
+
+
+
+
+technologies [{E:\FACULTATE\An IV\Sem II\RIW\lab4riw\RootDirectory\dir2\dir4\fis4.txt=1}, {E:\FACULTATE\An IV\Sem II\RIW\lab4riw\RootDirectory\dir1\dir3\fis1.txt=1}] 
+
+
+
+
+piece [{E:\FACULTATE\An IV\Sem II\RIW\lab4riw\RootDirectory\dir2\dir4\fis4.txt=1}] 
+
+
+
+
+left [{E:\FACULTATE\An IV\Sem II\RIW\lab4riw\RootDirectory\dir1\dir3\fis2.txt=1}] 
+
+
+
+
+adopt [{E:\FACULTATE\An IV\Sem II\RIW\lab4riw\RootDirectory\dir1\dir3\fis1.txt=1}] 
+
+
+
+
+rejoice [{E:\FACULTATE\An IV\Sem II\RIW\lab4riw\RootDirectory\dir1\dir3\fis2.txt=1}] 
+
+
+
+
+employees [{E:\FACULTATE\An IV\Sem II\RIW\lab4riw\RootDirectory\dir1\dir3\fis1.txt=2}] 
+
+
+
+
+20 [{E:\FACULTATE\An IV\Sem II\RIW\lab4riw\RootDirectory\dir2\fis3.txt=1}] 
+
+
+
+
+full [{E:\FACULTATE\An IV\Sem II\RIW\lab4riw\RootDirectory\dir2\dir4\fis4.txt=1}] 
+
+
+
+
+however [{E:\FACULTATE\An IV\Sem II\RIW\lab4riw\RootDirectory\dir2\fis3.txt=1}] 
+
+
+
+
+study [{E:\FACULTATE\An IV\Sem II\RIW\lab4riw\RootDirectory\dir1\dir3\fis1.txt=1}] 
+
+
+
+
+needed [{E:\FACULTATE\An IV\Sem II\RIW\lab4riw\RootDirectory\dir2\dir4\fis4.txt=1}] 
+
+
+
+
+automatically [{E:\FACULTATE\An IV\Sem II\RIW\lab4riw\RootDirectory\dir2\dir4\fis4.txt=1}] 
+
+
+
+
+additional [{E:\FACULTATE\An IV\Sem II\RIW\lab4riw\RootDirectory\dir2\fis3.txt=1}] 
+
+
+
+
+learning [{E:\FACULTATE\An IV\Sem II\RIW\lab4riw\RootDirectory\dir1\dir3\fis1.txt=1}] 
+
+
+
+
+tools [{E:\FACULTATE\An IV\Sem II\RIW\lab4riw\RootDirectory\dir2\dir4\fis4.txt=1}, {E:\FACULTATE\An IV\Sem II\RIW\lab4riw\RootDirectory\dir1\dir3\fis2.txt=1}] 
+
+
+
+
+percent [{E:\FACULTATE\An IV\Sem II\RIW\lab4riw\RootDirectory\dir2\fis3.txt=1}] 
+
+
+
+
+skilled [{E:\FACULTATE\An IV\Sem II\RIW\lab4riw\RootDirectory\dir1\dir3\fis1.txt=1}] 
+
+
+
+
+increases [{E:\FACULTATE\An IV\Sem II\RIW\lab4riw\RootDirectory\dir1\dir3\fis2.txt=1}] 
+
+
+
+
+productivity [{E:\FACULTATE\An IV\Sem II\RIW\lab4riw\RootDirectory\dir2\dir4\fis4.txt=1}] 
+
+
+
+
+era [{E:\FACULTATE\An IV\Sem II\RIW\lab4riw\RootDirectory\dir1\dir3\fis2.txt=1}] 
+
+
+
+
+takes [{E:\FACULTATE\An IV\Sem II\RIW\lab4riw\RootDirectory\dir1\dir3\fis2.txt=1}] 
+
+
+
+
+trillion [{E:\FACULTATE\An IV\Sem II\RIW\lab4riw\RootDirectory\dir2\dir4\fis4.txt=1}] 
+
+
+
+
+key [{E:\FACULTATE\An IV\Sem II\RIW\lab4riw\RootDirectory\dir2\dir4\fis4.txt=1}] 
+
+
+
+
+art [{E:\FACULTATE\An IV\Sem II\RIW\lab4riw\RootDirectory\dir1\dir3\fis1.txt=1}] 
+
+
+
+
+process [{E:\FACULTATE\An IV\Sem II\RIW\lab4riw\RootDirectory\dir1\dir3\fis1.txt=1}] 
+
+
+
+
+aims [{E:\FACULTATE\An IV\Sem II\RIW\lab4riw\RootDirectory\dir2\fis3.txt=1}] 
+
+
+
+
+six [{E:\FACULTATE\An IV\Sem II\RIW\lab4riw\RootDirectory\dir2\fis3.txt=1}] 
+
+
+
+
+cases [{E:\FACULTATE\An IV\Sem II\RIW\lab4riw\RootDirectory\dir1\dir3\fis1.txt=1}] 
+
+
+
+
+will [{E:\FACULTATE\An IV\Sem II\RIW\lab4riw\RootDirectory\dir2\dir4\fis4.txt=1}] 
+
+
+
+
+within [{E:\FACULTATE\An IV\Sem II\RIW\lab4riw\RootDirectory\dir2\fis3.txt=1}] 
+
+
+
+
+consulting [{E:\FACULTATE\An IV\Sem II\RIW\lab4riw\RootDirectory\dir2\dir4\fis4.txt=1}] 
+
+
+
+
+effectively [{E:\FACULTATE\An IV\Sem II\RIW\lab4riw\RootDirectory\dir1\dir3\fis1.txt=1}] 
+
+
+
+
+jobs [{E:\FACULTATE\An IV\Sem II\RIW\lab4riw\RootDirectory\dir1\dir3\fis2.txt=1}] 
+
+
+
+
+was [{E:\FACULTATE\An IV\Sem II\RIW\lab4riw\RootDirectory\dir2\dir4\fis4.txt=1}] 
+
+
+
+
+technology [{E:\FACULTATE\An IV\Sem II\RIW\lab4riw\RootDirectory\dir2\dir4\fis4.txt=1}] 
+
+
+
+
+enough [{E:\FACULTATE\An IV\Sem II\RIW\lab4riw\RootDirectory\dir1\dir3\fis1.txt=1}] 
+
+
+
+
+increase [{E:\FACULTATE\An IV\Sem II\RIW\lab4riw\RootDirectory\dir2\dir4\fis4.txt=1}, {E:\FACULTATE\An IV\Sem II\RIW\lab4riw\RootDirectory\dir2\fis3.txt=1}] 
+
+
+
+
+people [{E:\FACULTATE\An IV\Sem II\RIW\lab4riw\RootDirectory\dir2\dir4\fis4.txt=1}] 
+
+
+
+
+canâ€™t [{E:\FACULTATE\An IV\Sem II\RIW\lab4riw\RootDirectory\dir2\dir4\fis4.txt=1}] 
+
+
+
+
+the [{E:\FACULTATE\An IV\Sem II\RIW\lab4riw\RootDirectory\dir2\dir4\fis4.txt=1}, {E:\FACULTATE\An IV\Sem II\RIW\lab4riw\RootDirectory\dir2\fis3.txt=1}, {E:\FACULTATE\An IV\Sem II\RIW\lab4riw\RootDirectory\dir1\dir3\fis1.txt=1}, {E:\FACULTATE\An IV\Sem II\RIW\lab4riw\RootDirectory\dir1\dir3\fis2.txt=1}] 
+
+
+
+
+such [{E:\FACULTATE\An IV\Sem II\RIW\lab4riw\RootDirectory\dir1\dir3\fis2.txt=1}] 
+
+
+
+
+artificial [{E:\FACULTATE\An IV\Sem II\RIW\lab4riw\RootDirectory\dir2\dir4\fis4.txt=1}, {E:\FACULTATE\An IV\Sem II\RIW\lab4riw\RootDirectory\dir1\dir3\fis1.txt=1}] 
+
+
+
+
+what [{E:\FACULTATE\An IV\Sem II\RIW\lab4riw\RootDirectory\dir2\dir4\fis4.txt=1}] 
+
+
+
+
+fast [{E:\FACULTATE\An IV\Sem II\RIW\lab4riw\RootDirectory\dir1\dir3\fis2.txt=1}] 
+
+
+
+
+answer [{E:\FACULTATE\An IV\Sem II\RIW\lab4riw\RootDirectory\dir2\fis3.txt=1}] 
+
+
+
+
+application [{E:\FACULTATE\An IV\Sem II\RIW\lab4riw\RootDirectory\dir2\fis3.txt=1}] 
+
+
+
+
+machine [{E:\FACULTATE\An IV\Sem II\RIW\lab4riw\RootDirectory\dir1\dir3\fis1.txt=1}] 
+
+
+
+
+there [{E:\FACULTATE\An IV\Sem II\RIW\lab4riw\RootDirectory\dir2\dir4\fis4.txt=1}, {E:\FACULTATE\An IV\Sem II\RIW\lab4riw\RootDirectory\dir2\fis3.txt=1}] 
+
+
+
+
+ï»¿thinking [{E:\FACULTATE\An IV\Sem II\RIW\lab4riw\RootDirectory\dir1\dir3\fis2.txt=1}] 
+
+
+
+
+ï»¿as [{E:\FACULTATE\An IV\Sem II\RIW\lab4riw\RootDirectory\dir1\dir3\fis1.txt=1}] 
+
+
+
+
+time [{E:\FACULTATE\An IV\Sem II\RIW\lab4riw\RootDirectory\dir1\dir3\fis2.txt=1}] 
+
+
+
+
+automates [{E:\FACULTATE\An IV\Sem II\RIW\lab4riw\RootDirectory\dir1\dir3\fis1.txt=1}] 
+
+
+
+
+applications [{E:\FACULTATE\An IV\Sem II\RIW\lab4riw\RootDirectory\dir2\fis3.txt=1}] 
+
+
+
+

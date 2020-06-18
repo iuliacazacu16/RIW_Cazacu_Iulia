@@ -1,0 +1,135 @@
+package riw_dns;
+import java.io.ByteArrayInputStream;
+import java.io.ByteArrayOutputStream;
+import java.io.DataInputStream;
+import java.io.DataOutputStream;
+import java.io.IOException;
+import java.net.DatagramPacket;
+import java.net.DatagramSocket;
+import java.net.InetAddress;
+
+public class DnsClient 
+{
+
+    private static final String DNS_SERVER_ADDRESS = "81.180.223.1";
+    private static final int DNS_SERVER_PORT = 53;
+
+    public static void main(String[] args) throws IOException {
+        String domain = "www.riweb.tibeica.com";
+        InetAddress ipAddress = InetAddress.getByName(DNS_SERVER_ADDRESS);
+
+        ByteArrayOutputStream baos = new ByteArrayOutputStream();
+        DataOutputStream dos = new DataOutputStream(baos);
+
+        //Setez ID
+        dos.writeShort(0x2894);
+
+        //Flags QR=0 OPCode=0 RD=0
+        dos.writeShort(0x0000);
+
+        //Nr de intrebari din cerere=1
+        dos.writeShort(0x0001);
+
+        //Nr de raspunsuri din cerere=0
+        dos.writeShort(0x0000);
+
+        //Authority=0
+        dos.writeShort(0x0000);
+
+        //Additional=0
+        dos.writeShort(0x0000);
+
+        String[] cuvinte_domeniu= domain.split("\\.");
+        
+        //Codificare intrebare
+        System.out.println("Question Name:");
+        for (int i = 0; i<cuvinte_domeniu.length; i++) {
+            
+            byte[] cuvant = cuvinte_domeniu[i].getBytes("UTF-8");
+            dos.writeByte(cuvant.length);
+            System.out.print("[" + cuvant.length+"]");
+            dos.write(cuvant);
+            System.out.print("[" + cuvinte_domeniu[i]+"]");
+        }
+        
+        System.out.println("\n\n");
+        
+        //0 de la sfarsitul Question Name
+        dos.writeByte(0x00);
+
+        //QType=1
+        dos.writeShort(0x0001);
+
+        //QClass=1
+        dos.writeShort(0x0001);
+
+        byte[] buffer = baos.toByteArray();
+
+        System.out.println("Dimensiune buffer de trimis: " + buffer.length + " bytes");
+        
+        for (int i =0; i< buffer.length; i++) {
+            System.out.print("0x" + String.format("%x", buffer[i]) + " " );
+        }
+
+        
+        
+        
+        // Trimitem mesajul DNS construit
+        DatagramSocket socket = new DatagramSocket();
+        DatagramPacket dnsReqPacket = new DatagramPacket(buffer, buffer.length, ipAddress, DNS_SERVER_PORT);
+        socket.send(dnsReqPacket);
+
+        // Primim raspunsul de la server
+        byte[] buf = new byte[512];
+        DatagramPacket raspuns= new DatagramPacket(buf, buf.length);
+        socket.receive(raspuns);
+
+        System.out.println("\n\n");
+        System.out.println("Am primit de la server: " + raspuns.getLength() + " bytes");
+
+        for (int i = 0; i < raspuns.getLength(); i++) {
+            System.out.print("0x" + String.format("%x", buf[i]) + " " );
+        }
+        System.out.println("\n");
+
+
+        DataInputStream din = new DataInputStream(new ByteArrayInputStream(buf));
+        System.out.println("ID: 0x" + String.format("%x", din.readShort()));
+        System.out.println("Flags: 0x" + String.format("%x", din.readShort()));
+        System.out.println("Question Count: 0x" + String.format("%x", din.readShort()));
+        System.out.println("Answer Record Count: 0x" + String.format("%x", din.readShort()));
+        System.out.println("Authority Record Count: 0x" + String.format("%x", din.readShort()));
+        System.out.println("Additional Record Count: 0x" + String.format("%x", din.readShort()));
+
+        int recLen = 0;
+        while ((recLen = din.readByte()) > 0) {
+            byte[] record = new byte[recLen];
+            for (int i = 0; i < recLen; i++) {
+                record[i] = din.readByte();
+            }
+            System.out.println("Answer Name: " + new String(record, "UTF-8"));
+        }
+
+        System.out.println("Answer Type: 0x" + String.format("%x", din.readShort()));
+        System.out.println("Answer Class: 0x" + String.format("%x", din.readShort()));
+
+        System.out.println("Field: 0x" + String.format("%x", din.readShort()));
+        System.out.println("Type: 0x" + String.format("%x", din.readShort()));
+        System.out.println("Class: 0x" + String.format("%x", din.readShort()));
+        
+        //Teste pt ipv4 sau ipv6
+        System.out.println("TTL: 0x" + String.format("%x", din.readInt()));
+
+        short addrLen = din.readShort();
+//        System.out.println("Len: 0x" + String.format("%x", addrLen));
+
+        System.out.println("\n\n");
+        System.out.print("Adresa IP: ");
+        for (int i = 0; i < addrLen; i++ ) {
+            System.out.print("" + String.format("%d", (din.readByte() & 0xFF))+".");
+        }
+        
+        socket.close();
+    }
+}
+}

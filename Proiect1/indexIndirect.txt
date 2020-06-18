@@ -1,0 +1,525 @@
+ [{E:\FACULTATE\An IV\Sem II\RIW\Proiect1_riw\RootDirectory\dir1\dir6\fis1.txt=1}] 
+
+
+
+
+big [{E:\FACULTATE\An IV\Sem II\RIW\Proiect1_riw\RootDirectory\dir3\fis6.txt=1}] 
+
+
+
+
+habitat [{E:\FACULTATE\An IV\Sem II\RIW\Proiect1_riw\RootDirectory\dir3\fis6.txt=1}] 
+
+
+
+
+year [{E:\FACULTATE\An IV\Sem II\RIW\Proiect1_riw\RootDirectory\dir2\fis3.txt=1}] 
+
+
+
+
+reach [{E:\FACULTATE\An IV\Sem II\RIW\Proiect1_riw\RootDirectory\dir3\fis6.txt=1}] 
+
+
+
+
+hope [{E:\FACULTATE\An IV\Sem II\RIW\Proiect1_riw\RootDirectory\dir3\fis6.txt=1}] 
+
+
+
+
+soon [{E:\FACULTATE\An IV\Sem II\RIW\Proiect1_riw\RootDirectory\dir1\dir6\fis2.txt=1}] 
+
+
+
+
+robot [{E:\FACULTATE\An IV\Sem II\RIW\Proiect1_riw\RootDirectory\dir4\fis5.txt=1}, {E:\FACULTATE\An IV\Sem II\RIW\Proiect1_riw\RootDirectory\dir5\fis7.txt=1}] 
+
+
+
+
+cover [{E:\FACULTATE\An IV\Sem II\RIW\Proiect1_riw\RootDirectory\dir5\fis7.txt=1}] 
+
+
+
+
+review [{E:\FACULTATE\An IV\Sem II\RIW\Proiect1_riw\RootDirectory\dir1\dir6\fis1.txt=1}] 
+
+
+
+
+rank [{E:\FACULTATE\An IV\Sem II\RIW\Proiect1_riw\RootDirectory\dir1\dir6\fis1.txt=1}] 
+
+
+
+
+ten [{E:\FACULTATE\An IV\Sem II\RIW\Proiect1_riw\RootDirectory\dir1\dir6\fis1.txt=1}] 
+
+
+
+
+greater [{E:\FACULTATE\An IV\Sem II\RIW\Proiect1_riw\RootDirectory\dir3\fis6.txt=1}] 
+
+
+
+
+energy [{E:\FACULTATE\An IV\Sem II\RIW\Proiect1_riw\RootDirectory\dir3\fis6.txt=1}] 
+
+
+
+
+efficiency [{E:\FACULTATE\An IV\Sem II\RIW\Proiect1_riw\RootDirectory\dir3\fis6.txt=1}] 
+
+
+
+
+pundit [{E:\FACULTATE\An IV\Sem II\RIW\Proiect1_riw\RootDirectory\dir1\dir6\fis2.txt=1}] 
+
+
+
+
+metal [{E:\FACULTATE\An IV\Sem II\RIW\Proiect1_riw\RootDirectory\dir4\fis5.txt=1}, {E:\FACULTATE\An IV\Sem II\RIW\Proiect1_riw\RootDirectory\dir5\fis7.txt=1}] 
+
+
+
+
+sery [{E:\FACULTATE\An IV\Sem II\RIW\Proiect1_riw\RootDirectory\dir5\fis7.txt=1}] 
+
+
+
+
+lion [{E:\FACULTATE\An IV\Sem II\RIW\Proiect1_riw\RootDirectory\dir3\fis6.txt=1}] 
+
+
+
+
+size [{E:\FACULTATE\An IV\Sem II\RIW\Proiect1_riw\RootDirectory\dir3\fis6.txt=1}] 
+
+
+
+
+includ [{E:\FACULTATE\An IV\Sem II\RIW\Proiect1_riw\RootDirectory\dir1\dir6\fis1.txt=1}] 
+
+
+
+
+among [{E:\FACULTATE\An IV\Sem II\RIW\Proiect1_riw\RootDirectory\dir1\dir6\fis1.txt=1}] 
+
+
+
+
+hello [{E:\FACULTATE\An IV\Sem II\RIW\Proiect1_riw\RootDirectory\dir2\dir7\fis4.txt=1}] 
+
+
+
+
+drive [{E:\FACULTATE\An IV\Sem II\RIW\Proiect1_riw\RootDirectory\dir1\dir6\fis2.txt=1}] 
+
+
+
+
+larger [{E:\FACULTATE\An IV\Sem II\RIW\Proiect1_riw\RootDirectory\dir3\fis6.txt=1}] 
+
+
+
+
+engin [{E:\FACULTATE\An IV\Sem II\RIW\Proiect1_riw\RootDirectory\dir2\fis3.txt=1}, {E:\FACULTATE\An IV\Sem II\RIW\Proiect1_riw\RootDirectory\dir1\dir6\fis1.txt=1}] 
+
+
+
+
+jellyfish [{E:\FACULTATE\An IV\Sem II\RIW\Proiect1_riw\RootDirectory\dir3\fis6.txt=3}, {E:\FACULTATE\An IV\Sem II\RIW\Proiect1_riw\RootDirectory\dir5\fis7.txt=1}] 
+
+
+
+
+city [{E:\FACULTATE\An IV\Sem II\RIW\Proiect1_riw\RootDirectory\dir2\fis3.txt=1}] 
+
+
+
+
+ïIndeedâ [{E:\FACULTATE\An IV\Sem II\RIW\Proiect1_riw\RootDirectory\dir1\dir6\fis1.txt=1}] 
+
+
+
+
+battery [{E:\FACULTATE\An IV\Sem II\RIW\Proiect1_riw\RootDirectory\dir4\fis5.txt=1}] 
+
+
+
+
+out [{E:\FACULTATE\An IV\Sem II\RIW\Proiect1_riw\RootDirectory\dir2\fis3.txt=1}, {E:\FACULTATE\An IV\Sem II\RIW\Proiect1_riw\RootDirectory\dir1\dir6\fis2.txt=1}, {E:\FACULTATE\An IV\Sem II\RIW\Proiect1_riw\RootDirectory\dir5\fis7.txt=1}, {E:\FACULTATE\An IV\Sem II\RIW\Proiect1_riw\RootDirectory\dir1\dir6\fis1.txt=2}] 
+
+
+
+
+world [{E:\FACULTATE\An IV\Sem II\RIW\Proiect1_riw\RootDirectory\dir3\fis6.txt=1}, {E:\FACULTATE\An IV\Sem II\RIW\Proiect1_riw\RootDirectory\dir2\dir7\fis4.txt=1}] 
+
+
+
+
+same [{E:\FACULTATE\An IV\Sem II\RIW\Proiect1_riw\RootDirectory\dir3\fis6.txt=1}] 
+
+
+
+
+ïWhile [{E:\FACULTATE\An IV\Sem II\RIW\Proiect1_riw\RootDirectory\dir1\dir6\fis2.txt=1}] 
+
+
+
+
+known [{E:\FACULTATE\An IV\Sem II\RIW\Proiect1_riw\RootDirectory\dir3\fis6.txt=1}] 
+
+
+
+
+top [{E:\FACULTATE\An IV\Sem II\RIW\Proiect1_riw\RootDirectory\dir1\dir6\fis1.txt=1}] 
+
+
+
+
+came [{E:\FACULTATE\An IV\Sem II\RIW\Proiect1_riw\RootDirectory\dir1\dir6\fis1.txt=1}] 
+
+
+
+
+arm [{E:\FACULTATE\An IV\Sem II\RIW\Proiect1_riw\RootDirectory\dir5\fis7.txt=1}] 
+
+
+
+
+though [{E:\FACULTATE\An IV\Sem II\RIW\Proiect1_riw\RootDirectory\dir1\dir6\fis1.txt=1}] 
+
+
+
+
+learn [{E:\FACULTATE\An IV\Sem II\RIW\Proiect1_riw\RootDirectory\dir3\fis6.txt=1}] 
+
+
+
+
+team [{E:\FACULTATE\An IV\Sem II\RIW\Proiect1_riw\RootDirectory\dir5\fis7.txt=1}] 
+
+
+
+
+the [{E:\FACULTATE\An IV\Sem II\RIW\Proiect1_riw\RootDirectory\dir3\fis6.txt=3}, {E:\FACULTATE\An IV\Sem II\RIW\Proiect1_riw\RootDirectory\dir1\dir6\fis2.txt=1}] 
+
+
+
+
+confirm [{E:\FACULTATE\An IV\Sem II\RIW\Proiect1_riw\RootDirectory\dir1\dir6\fis1.txt=1}] 
+
+
+
+
+site [{E:\FACULTATE\An IV\Sem II\RIW\Proiect1_riw\RootDirectory\dir1\dir6\fis1.txt=1}] 
+
+
+
+
+s [{E:\FACULTATE\An IV\Sem II\RIW\Proiect1_riw\RootDirectory\dir3\fis6.txt=2}, {E:\FACULTATE\An IV\Sem II\RIW\Proiect1_riw\RootDirectory\dir5\fis7.txt=1}] 
+
+
+
+
+mane [{E:\FACULTATE\An IV\Sem II\RIW\Proiect1_riw\RootDirectory\dir3\fis6.txt=1}] 
+
+
+
+
+puls [{E:\FACULTATE\An IV\Sem II\RIW\Proiect1_riw\RootDirectory\dir5\fis7.txt=1}] 
+
+
+
+
+oper [{E:\FACULTATE\An IV\Sem II\RIW\Proiect1_riw\RootDirectory\dir4\fis5.txt=1}] 
+
+
+
+
+to [{E:\FACULTATE\An IV\Sem II\RIW\Proiect1_riw\RootDirectory\dir3\fis6.txt=2}, {E:\FACULTATE\An IV\Sem II\RIW\Proiect1_riw\RootDirectory\dir1\dir6\fis2.txt=1}] 
+
+
+
+
+travel [{E:\FACULTATE\An IV\Sem II\RIW\Proiect1_riw\RootDirectory\dir3\fis6.txt=1}] 
+
+
+
+
+fashion [{E:\FACULTATE\An IV\Sem II\RIW\Proiect1_riw\RootDirectory\dir5\fis7.txt=1}] 
+
+
+
+
+data [{E:\FACULTATE\An IV\Sem II\RIW\Proiect1_riw\RootDirectory\dir1\dir6\fis1.txt=1}] 
+
+
+
+
+fuel [{E:\FACULTATE\An IV\Sem II\RIW\Proiect1_riw\RootDirectory\dir2\fis3.txt=1}] 
+
+
+
+
+own [{E:\FACULTATE\An IV\Sem II\RIW\Proiect1_riw\RootDirectory\dir4\fis5.txt=1}] 
+
+
+
+
+seven [{E:\FACULTATE\An IV\Sem II\RIW\Proiect1_riw\RootDirectory\dir1\dir6\fis1.txt=1}] 
+
+
+
+
+run [{E:\FACULTATE\An IV\Sem II\RIW\Proiect1_riw\RootDirectory\dir2\fis3.txt=1}] 
+
+
+
+
+northern [{E:\FACULTATE\An IV\Sem II\RIW\Proiect1_riw\RootDirectory\dir3\fis6.txt=1}] 
+
+
+
+
+second [{E:\FACULTATE\An IV\Sem II\RIW\Proiect1_riw\RootDirectory\dir2\fis3.txt=1}] 
+
+
+
+
+that [{E:\FACULTATE\An IV\Sem II\RIW\Proiect1_riw\RootDirectory\dir3\fis6.txt=1}, {E:\FACULTATE\An IV\Sem II\RIW\Proiect1_riw\RootDirectory\dir1\dir6\fis2.txt=2}, {E:\FACULTATE\An IV\Sem II\RIW\Proiect1_riw\RootDirectory\dir1\dir6\fis1.txt=1}] 
+
+
+
+
+regularly [{E:\FACULTATE\An IV\Sem II\RIW\Proiect1_riw\RootDirectory\dir1\dir6\fis2.txt=1}] 
+
+
+
+
+shown [{E:\FACULTATE\An IV\Sem II\RIW\Proiect1_riw\RootDirectory\dir3\fis6.txt=1}] 
+
+
+
+
+specy [{E:\FACULTATE\An IV\Sem II\RIW\Proiect1_riw\RootDirectory\dir3\fis6.txt=1}] 
+
+
+
+
+than [{E:\FACULTATE\An IV\Sem II\RIW\Proiect1_riw\RootDirectory\dir3\fis6.txt=1}] 
+
+
+
+
+beat [{E:\FACULTATE\An IV\Sem II\RIW\Proiect1_riw\RootDirectory\dir2\fis3.txt=1}] 
+
+
+
+
+which [{E:\FACULTATE\An IV\Sem II\RIW\Proiect1_riw\RootDirectory\dir2\fis3.txt=1}, {E:\FACULTATE\An IV\Sem II\RIW\Proiect1_riw\RootDirectory\dir3\fis6.txt=1}, {E:\FACULTATE\An IV\Sem II\RIW\Proiect1_riw\RootDirectory\dir1\dir6\fis2.txt=1}, {E:\FACULTATE\An IV\Sem II\RIW\Proiect1_riw\RootDirectory\dir5\fis7.txt=2}, {E:\FACULTATE\An IV\Sem II\RIW\Proiect1_riw\RootDirectory\dir1\dir6\fis1.txt=1}] 
+
+
+
+
+tech [{E:\FACULTATE\An IV\Sem II\RIW\Proiect1_riw\RootDirectory\dir1\dir6\fis1.txt=1}] 
+
+
+
+
+new [{E:\FACULTATE\An IV\Sem II\RIW\Proiect1_riw\RootDirectory\dir1\dir6\fis2.txt=1}] 
+
+
+
+
+already [{E:\FACULTATE\An IV\Sem II\RIW\Proiect1_riw\RootDirectory\dir3\fis6.txt=1}] 
+
+
+
+
+less [{E:\FACULTATE\An IV\Sem II\RIW\Proiect1_riw\RootDirectory\dir3\fis6.txt=1}] 
+
+
+
+
+real [{E:\FACULTATE\An IV\Sem II\RIW\Proiect1_riw\RootDirectory\dir5\fis7.txt=1}] 
+
+
+
+
+list [{E:\FACULTATE\An IV\Sem II\RIW\Proiect1_riw\RootDirectory\dir1\dir6\fis1.txt=1}] 
+
+
+
+
+presenc [{E:\FACULTATE\An IV\Sem II\RIW\Proiect1_riw\RootDirectory\dir2\fis3.txt=1}] 
+
+
+
+
+take [{E:\FACULTATE\An IV\Sem II\RIW\Proiect1_riw\RootDirectory\dir1\dir6\fis2.txt=1}] 
+
+
+
+
+ocean [{E:\FACULTATE\An IV\Sem II\RIW\Proiect1_riw\RootDirectory\dir3\fis6.txt=1}] 
+
+
+
+
+region [{E:\FACULTATE\An IV\Sem II\RIW\Proiect1_riw\RootDirectory\dir1\dir6\fis2.txt=1}] 
+
+
+
+
+job [{E:\FACULTATE\An IV\Sem II\RIW\Proiect1_riw\RootDirectory\dir1\dir6\fis1.txt=4}] 
+
+
+
+
+next [{E:\FACULTATE\An IV\Sem II\RIW\Proiect1_riw\RootDirectory\dir1\dir6\fis2.txt=1}] 
+
+
+
+
+here [{E:\FACULTATE\An IV\Sem II\RIW\Proiect1_riw\RootDirectory\dir5\fis7.txt=1}] 
+
+
+
+
+largest [{E:\FACULTATE\An IV\Sem II\RIW\Proiect1_riw\RootDirectory\dir3\fis6.txt=1}] 
+
+
+
+
+indic [{E:\FACULTATE\An IV\Sem II\RIW\Proiect1_riw\RootDirectory\dir1\dir6\fis2.txt=1}] 
+
+
+
+
+reminisc [{E:\FACULTATE\An IV\Sem II\RIW\Proiect1_riw\RootDirectory\dir5\fis7.txt=1}] 
+
+
+
+
+we [{E:\FACULTATE\An IV\Sem II\RIW\Proiect1_riw\RootDirectory\dir5\fis7.txt=1}] 
+
+
+
+
+can [{E:\FACULTATE\An IV\Sem II\RIW\Proiect1_riw\RootDirectory\dir3\fis6.txt=1}] 
+
+
+
+
+distanc [{E:\FACULTATE\An IV\Sem II\RIW\Proiect1_riw\RootDirectory\dir3\fis6.txt=1}] 
+
+
+
+
+predict [{E:\FACULTATE\An IV\Sem II\RIW\Proiect1_riw\RootDirectory\dir1\dir6\fis2.txt=1}] 
+
+
+
+
+jelly [{E:\FACULTATE\An IV\Sem II\RIW\Proiect1_riw\RootDirectory\dir5\fis7.txt=1}] 
+
+
+
+
+on [{E:\FACULTATE\An IV\Sem II\RIW\Proiect1_riw\RootDirectory\dir3\fis6.txt=1}] 
+
+
+
+
+over [{E:\FACULTATE\An IV\Sem II\RIW\Proiect1_riw\RootDirectory\dir1\dir6\fis2.txt=1}] 
+
+
+
+
+anytim [{E:\FACULTATE\An IV\Sem II\RIW\Proiect1_riw\RootDirectory\dir1\dir6\fis2.txt=1}] 
+
+
+
+
+nickel [{E:\FACULTATE\An IV\Sem II\RIW\Proiect1_riw\RootDirectory\dir4\fis5.txt=1}] 
+
+
+
+
+move [{E:\FACULTATE\An IV\Sem II\RIW\Proiect1_riw\RootDirectory\dir3\fis6.txt=1}, {E:\FACULTATE\An IV\Sem II\RIW\Proiect1_riw\RootDirectory\dir5\fis7.txt=1}] 
+
+
+
+
+cost [{E:\FACULTATE\An IV\Sem II\RIW\Proiect1_riw\RootDirectory\dir1\dir6\fis2.txt=1}] 
+
+
+
+
+will [{E:\FACULTATE\An IV\Sem II\RIW\Proiect1_riw\RootDirectory\dir1\dir6\fis2.txt=1}] 
+
+
+
+
+hydrid [{E:\FACULTATE\An IV\Sem II\RIW\Proiect1_riw\RootDirectory\dir4\fis5.txt=1}] 
+
+
+
+
+also [{E:\FACULTATE\An IV\Sem II\RIW\Proiect1_riw\RootDirectory\dir1\dir6\fis1.txt=1}] 
+
+
+
+
+differ [{E:\FACULTATE\An IV\Sem II\RIW\Proiect1_riw\RootDirectory\dir1\dir6\fis1.txt=1}] 
+
+
+
+
+satisfact [{E:\FACULTATE\An IV\Sem II\RIW\Proiect1_riw\RootDirectory\dir1\dir6\fis1.txt=1}] 
+
+
+
+
+congest [{E:\FACULTATE\An IV\Sem II\RIW\Proiect1_riw\RootDirectory\dir1\dir6\fis2.txt=1}] 
+
+
+
+
+with [{E:\FACULTATE\An IV\Sem II\RIW\Proiect1_riw\RootDirectory\dir4\fis5.txt=1}] 
+
+
+
+
+previou [{E:\FACULTATE\An IV\Sem II\RIW\Proiect1_riw\RootDirectory\dir5\fis7.txt=1}] 
+
+
+
+
+chang [{E:\FACULTATE\An IV\Sem II\RIW\Proiect1_riw\RootDirectory\dir5\fis7.txt=1}] 
+
+
+
+
+time [{E:\FACULTATE\An IV\Sem II\RIW\Proiect1_riw\RootDirectory\dir4\fis5.txt=1}] 
+
+
+
+
+front [{E:\FACULTATE\An IV\Sem II\RIW\Proiect1_riw\RootDirectory\dir1\dir6\fis1.txt=1}] 
+
+
+
+
+recharg [{E:\FACULTATE\An IV\Sem II\RIW\Proiect1_riw\RootDirectory\dir4\fis5.txt=1}] 
+
+
+
+
+base [{E:\FACULTATE\An IV\Sem II\RIW\Proiect1_riw\RootDirectory\dir3\fis6.txt=1}] 
+
+
+
+
